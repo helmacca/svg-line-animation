@@ -1,0 +1,15 @@
+body {
+  background-color: #38678f;
+}
+
+svg {
+  display: block;
+  margin: 200px auto;
+  width: 448px;
+}
+
+#fintech-illustration {
+  width: 450px;
+  height: 450px;
+  margin:200px auto;
+}
